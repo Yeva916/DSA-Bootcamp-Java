@@ -1,5 +1,5 @@
 # 🔥DSA-Bootcamp-Java
-
+#free for all
 - Subscribe to the [YouTube channel](https://www.youtube.com/KunalKushwaha?sub_confirmation=1)
 
 - [📂 Complete Playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
@@ -10,7 +10,9 @@
 
 - [Connect with me](http://kunalkushwaha.com)
 
-- Check out [WeMakeDevs](https://wemakedevs.org)
+-Check out [WeMakeDevs](https://wemakedevs.org)
+
+-Check our [yeshwant](https://twitter.com/yeshwa916)
  
 ## Thanks to all the contributors ❤️
 <a href = "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/graphs/contributors">
